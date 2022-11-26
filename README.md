@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabhfasate
 - 👀 I’m interested in developing script based **FEA solver**
-- 🌱 I’m currently learning **C++, Java, Google Cloud Platform** 
+- 🌱 I’m currently learning **C++, Java, Google Cloud Platform**   (Full stack with DevOps)
 - 💞️ I’m looking to collaborate on development porject related to FEA fields
 - 📫 How to reach me saurabhphasate@gmail.com
 
